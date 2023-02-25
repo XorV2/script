@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 
 local Window = Rayfield:CreateWindow({
-   Name = "RSP - Pet Simulator X Script",
+   Name = "RSP - Fruit Battlegrounds Script",
    LoadingTitle = "Interface Loading...",
    LoadingSubtitle = "By RSP",
    ConfigurationSaving = {
@@ -47,7 +47,7 @@ local Tab = Window:CreateTab("Main", 4483362458)
 local Button = Tab:CreateButton({
    Name = "Pet Simulator X Script - 1",
    Callback = function()
-      loadstring(game:HttpGet('https://jumblescripts.com/JumbleHub.lua'))()
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/ASJBFUIASBDMNJSDSADSADSDALDSSDDSN'))()
    end,
 })
 
